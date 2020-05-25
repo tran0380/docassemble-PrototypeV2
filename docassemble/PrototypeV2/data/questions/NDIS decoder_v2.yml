@@ -36,13 +36,13 @@ subquestion: |
   Assistance with social and community participation|${ core_social_participation }
   **CAPITAL SUPPORT**
   Home modifications|${ capital_home }
-  Assistive Technology|${ capital_AT }
+  Assistive technology|${ capital_AT }
   **CAPACITY BUILDING**
   Coordination of supports|${ capacity_coord_supports }
   Improved living arrangements|${ capacity_living_arrangements }
   Increase social and community participation|${ capacity_social_participation }
-  Job Assistance|${ capacity_job_assistance }
-  Improved relations|${ capacity_relations }
+  Job assistance|${ capacity_job_assistance }
+  Improved relationships|${ capacity_relationships }
   Improved health and wellbeing|${ capacity_health_wellbeing }
   Improved learning|${ capacity_learning }
   Improved life choices|${ capacity_life_choices }
@@ -74,13 +74,13 @@ subquestion: |
     
     **Core support categories include:** Assistance with daily life, Transport, Consumables, Assistance with social and community participation
   
-  - **CAPITAL** - investment funding for higher-cost pieces of assistive technology, equipment, home or vehicle modifications, or for Specialist Disability Accommondation (SDA).
+  - **CAPITAL** - investment funding for higher-cost pieces of assistive technology, equipment, home or vehicle modifications, or for Specialist Disability Accommodation (SDA).
     
     **Capital support categories include:** Home modifications and Assistive Technology
   
   - **CAPACITY BUILDING** - supports to help build your independence and skills to help you reach your long-term goals.
   
-    **Capacity building support categories include:** Coordination of supports, Improved living arrangements, Increased social and community participation, Job Assistance, Improved relations, health and wellbeing, learning, life choices and daily living.
+    **Capacity building support categories include:** Coordination of supports, Improved living arrangements, Increased social and community participation, Job Assistance, Improved relationships, health and wellbeing, learning, life choices and daily living.
   
   More information can be found in the NDIS Pricing Guide. Click [here](https://www.ndis.gov.au/providers/price-guides-and-pricing) for more information.
 
@@ -124,7 +124,11 @@ buttons:
 question: |
   Core Support - Consumables
 subquestion: |
-  Consumables info
+  Funding to help you purchase everyday use items.
+  
+  May include funding to purchase low risk low cost AT. (mostly items <$1500)
+  
+  Would you like more information on this support category?
 field: core_consumables
 buttons:
   - YES
@@ -200,10 +204,10 @@ buttons:
   - NO
 ---
 question: |
-  Capacity Building - Improved relations
+  Capacity Building - Improved relationships
 subquestion: |
   put info here
-field: capacity_relations
+field: capacity_relationships
 buttons:
   - YES
   - NO
@@ -238,7 +242,10 @@ buttons:
 question: |
   Capacity Building - Improved daily living
 subquestion: |
-  put info here
+  Funding to help you with  xxx 
+  
+  - therapy aimed at building your capacity to participate
+  - 
 field: capacity_daily_living
 buttons:
   - YES

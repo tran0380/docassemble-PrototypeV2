@@ -45,7 +45,7 @@ def find_package_data(where='.', package='', exclude=standard_exclude, exclude_d
 setup(name='docassemble.PrototypeV2',
       version='0.0.1',
       description=('Prototype_v2'),
-      long_description='# docassemble.PrototypeV2\n\nPrototype_v2\n\n## Author\n\nLinda Tran, tran0380@flinders.edu.au\n\n',
+      long_description='# docassemble.PrototypeV2\r\n\r\nPrototype_v2\r\n\r\n## Author\r\n\r\nLinda Tran, tran0380@flinders.edu.au\r\n\r\n',
       long_description_content_type='text/markdown',
       author='Linda Tran',
       author_email='tran0380@flinders.edu.au',
